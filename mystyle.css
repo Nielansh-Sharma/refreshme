@@ -1,0 +1,38 @@
+body {
+    background-color: #000000;
+}
+
+.container {
+    width: 70%;
+    margin: auto;       
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size: 128px;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    color: #EB455F;
+    margin: 30px;    
+    /* -webkit-text-stroke-color: 2px black; */
+    /* -webkit-text-stroke: 1px black;
+    -webkit-text-fill-color: rgb(0, 238, 255); */
+}
+
+h4 {
+    color: #fddf92;
+    text-align: center;
+    font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+}
+
+.dice1 ,.dice2{
+    display: inline-block;
+    text-align: center;
+}
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-align: center;
+}
